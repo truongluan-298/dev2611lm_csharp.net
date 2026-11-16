@@ -1,0 +1,16 @@
+D:\dev2611lm_csharp.net\Lesson01\Lesson01\bin\Debug\net10.0\Lesson01.exe
+D:\dev2611lm_csharp.net\Lesson01\Lesson01\bin\Debug\net10.0\Lesson01.deps.json
+D:\dev2611lm_csharp.net\Lesson01\Lesson01\bin\Debug\net10.0\Lesson01.runtimeconfig.json
+D:\dev2611lm_csharp.net\Lesson01\Lesson01\bin\Debug\net10.0\Lesson01.runtimeconfig.dev.json
+D:\dev2611lm_csharp.net\Lesson01\Lesson01\bin\Debug\net10.0\Lesson01.dll
+D:\dev2611lm_csharp.net\Lesson01\Lesson01\bin\Debug\net10.0\Lesson01.pdb
+D:\dev2611lm_csharp.net\Lesson01\Lesson01\obj\Debug\net10.0\Lesson01.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev2611lm_csharp.net\Lesson01\Lesson01\obj\Debug\net10.0\Lesson01.AssemblyInfoInputs.cache
+D:\dev2611lm_csharp.net\Lesson01\Lesson01\obj\Debug\net10.0\Lesson01.AssemblyInfo.cs
+D:\dev2611lm_csharp.net\Lesson01\Lesson01\obj\Debug\net10.0\Lesson01.csproj.CoreCompileInputs.cache
+D:\dev2611lm_csharp.net\Lesson01\Lesson01\obj\Debug\net10.0\Lesson01.dll
+D:\dev2611lm_csharp.net\Lesson01\Lesson01\obj\Debug\net10.0\refint\Lesson01.dll
+D:\dev2611lm_csharp.net\Lesson01\Lesson01\obj\Debug\net10.0\Lesson01.pdb
+D:\dev2611lm_csharp.net\Lesson01\Lesson01\obj\Debug\net10.0\Lesson01.genruntimeconfig.cache
+D:\dev2611lm_csharp.net\Lesson01\Lesson01\obj\Debug\net10.0\ref\Lesson01.dll
+D:\dev2611lm_csharp.net\Lesson01\Lesson01\obj\Debug\net10.0\Lesson01.csproj.Up2Date
