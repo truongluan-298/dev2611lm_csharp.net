@@ -4,7 +4,14 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, Devmaster!");
+            Console.WriteLine("   +++++++++               ++++      ++++   ");
+            Console.WriteLine("  ++++++++++++         +++++++++++++++++++  ");
+            Console.WriteLine(" ++++      ++++       +++++++++++++++++++   ");
+            Console.WriteLine("++++                    ++++      ++++      ");
+            Console.WriteLine("++++                   ++++      ++++       ");
+            Console.WriteLine(" ++++      ++++     +++++++++++++++++++     ");
+            Console.WriteLine("  ++++++++++++     +++++++++++++++++++      ");
+            Console.WriteLine("   +++++++++        ++++      ++++          ");
         }
     }
 }

@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dev2611lm_csharp.net\\Lesson01\\Lesson01\\Lesson01.csproj",
-      "projectName": "Lesson01",
-      "projectPath": "D:\\dev2611lm_csharp.net\\Lesson01\\Lesson01\\Lesson01.csproj",
+      "projectUniqueName": "D:\\dev2611lm_csharp.net\\Lesson01\\Lesson01\\Lesson01.1.csproj",
+      "projectName": "Lesson01.1",
+      "projectPath": "D:\\dev2611lm_csharp.net\\Lesson01\\Lesson01\\Lesson01.1.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
       "outputPath": "D:\\dev2611lm_csharp.net\\Lesson01\\Lesson01\\obj\\",
       "projectStyle": "PackageReference",

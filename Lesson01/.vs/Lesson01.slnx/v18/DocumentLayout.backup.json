@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\dev2611lm_csharp.net\\Lesson01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99CE93DA-7103-C895-C4A2-8AE42BBB2749}|Lesson01\\Lesson01.csproj|d:\\dev2611lm_csharp.net\\lesson01\\lesson01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99CE93DA-7103-C895-C4A2-8AE42BBB2749}|Lesson01\\Lesson01.csproj|solutionrelative:lesson01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D936A8F-C96E-4FD9-878C-CF45DCE7A966}|Lesson01.2\\Lesson01.2.csproj|d:\\dev2611lm_csharp.net\\lesson01\\lesson01.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D936A8F-C96E-4FD9-878C-CF45DCE7A966}|Lesson01.2\\Lesson01.2.csproj|solutionrelative:lesson01.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23B96B55-39EF-2498-CAB7-CC1432D71966}|Lesson01\\Lesson01.1.csproj|d:\\dev2611lm_csharp.net\\lesson01\\lesson01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23B96B55-39EF-2498-CAB7-CC1432D71966}|Lesson01\\Lesson01.1.csproj|solutionrelative:lesson01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D936A8F-C96E-4FD9-878C-CF45DCE7A966}|Lesson01.2\\Lesson01.2.csproj|d:\\dev2611lm_csharp.net\\lesson01\\lesson01.2\\lesson01.2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D936A8F-C96E-4FD9-878C-CF45DCE7A966}|Lesson01.2\\Lesson01.2.csproj|solutionrelative:lesson01.2\\lesson01.2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23B96B55-39EF-2498-CAB7-CC1432D71966}|Lesson01\\Lesson01.1.csproj|d:\\dev2611lm_csharp.net\\lesson01\\lesson01\\lesson01.1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{23B96B55-39EF-2498-CAB7-CC1432D71966}|Lesson01\\Lesson01.1.csproj|solutionrelative:lesson01\\lesson01.1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,18 +33,54 @@
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lesson01.2",
+              "DocumentMoniker": "D:\\dev2611lm_csharp.net\\Lesson01\\Lesson01.2\\Lesson01.2.csproj",
+              "RelativeDocumentMoniker": "Lesson01.2\\Lesson01.2.csproj",
+              "ToolTip": "D:\\dev2611lm_csharp.net\\Lesson01\\Lesson01.2\\Lesson01.2.csproj",
+              "RelativeToolTip": "Lesson01.2\\Lesson01.2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-16T13:47:50.983Z",
+              "OwnerCaption": "Lesson01.2"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dev2611lm_csharp.net\\Lesson01\\Lesson01.2\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson01.2\\Program.cs",
+              "ToolTip": "D:\\dev2611lm_csharp.net\\Lesson01\\Lesson01.2\\Program.cs",
+              "RelativeToolTip": "Lesson01.2\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T13:47:45.966Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lesson01",
+              "DocumentMoniker": "D:\\dev2611lm_csharp.net\\Lesson01\\Lesson01\\Lesson01.1.csproj",
+              "RelativeDocumentMoniker": "Lesson01\\Lesson01.1.csproj",
+              "ToolTip": "D:\\dev2611lm_csharp.net\\Lesson01\\Lesson01\\Lesson01.1.csproj",
+              "RelativeToolTip": "Lesson01\\Lesson01.1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-16T13:46:28.331Z",
+              "OwnerCaption": "Lesson01"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\dev2611lm_csharp.net\\Lesson01\\Lesson01\\Program.cs",
               "RelativeDocumentMoniker": "Lesson01\\Program.cs",
               "ToolTip": "D:\\dev2611lm_csharp.net\\Lesson01\\Lesson01\\Program.cs",
               "RelativeToolTip": "Lesson01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-16T12:53:56.924Z",
               "EditorCaption": "",
