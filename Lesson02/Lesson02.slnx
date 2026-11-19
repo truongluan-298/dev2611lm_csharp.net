@@ -1,3 +1,10 @@
 <Solution>
+  <Project Path="Lesson02.0/Lesson02.0.csproj" Id="cf146952-c4b0-4fd9-90dd-ebf43b258030" />
   <Project Path="Lesson02.1/Lesson02.1.csproj" />
+  <Project Path="Lesson02.4/Lesson02.4.csproj" Id="36313b3e-c8a2-492b-b86a-9d38e0080a38" />
+  <Project Path="Lesson02.5/Lesson02.5.csproj" Id="92b5e615-d2ec-4a37-9752-31a9582b3e4f" />
+  <Project Path="Lesson02.6/Lesson02.6.csproj" Id="f4e95548-fb9b-4ebc-be56-5849d5c455f9" />
+  <Project Path="Lesson02.7/Lesson02.7.csproj" Id="524c0802-39c3-4f8b-93d1-6f1e06d46c2b" />
+  <Project Path="Lesson02.8/Lesson02.8.csproj" Id="93f57232-c349-4cf8-b399-faebec22ba2d" />
+  <Project Path="Lesson02.9/Lesson02.9.csproj" Id="171736f3-5e15-44f3-ae16-096e2eb5f537" />
 </Solution>
